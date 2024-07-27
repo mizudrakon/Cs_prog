@@ -1,0 +1,5 @@
+/home/cryptid/Programs/School/Prog2/Collection/Collection/obj/x86/Debug/Collection.csproj.CoreCompileInputs.cache
+/home/cryptid/Programs/School/Prog2/Collection/Collection/bin/Debug/Collection.exe
+/home/cryptid/Programs/School/Prog2/Collection/Collection/bin/Debug/Collection.pdb
+/home/cryptid/Programs/School/Prog2/Collection/Collection/obj/x86/Debug/Collection.exe
+/home/cryptid/Programs/School/Prog2/Collection/Collection/obj/x86/Debug/Collection.pdb
